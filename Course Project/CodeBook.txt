@@ -1,0 +1,24 @@
+
+dataX_train : It is a data frame into which the X_train file is read. 
+
+dataY_train : It is a data frame into which the y_train file is read.
+             Values give the position of the user during training sessions.
+			 1 WALKING
+			 2 WALKING_UPSTAIRS
+			 3 WALKING_DOWNSTAIRS
+			 4 SITTING
+			 5 STANDING
+			 6 LAYING
+
+dataX_test <- It is a data frame into which the X_test file is read.
+
+dataY_test : It is a data frame into which the y_test file is read.
+             Values give the position of the user during testing sessions.
+			 1 WALKING
+			 2 WALKING_UPSTAIRS
+			 3 WALKING_DOWNSTAIRS
+			 4 SITTING
+			 5 STANDING
+			 6 LAYING
+
+
